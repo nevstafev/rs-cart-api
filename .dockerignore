@@ -1,0 +1,10 @@
+# ignore node modules
+node_modules
+# ignore aws stuff
+.elasricbeanstalk
+
+# ignore test folder
+test
+
+# ignore local build result
+dist
